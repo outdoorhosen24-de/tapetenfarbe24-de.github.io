@@ -1,17 +1,31 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "obi",
+        "name": "OBI",
+        "slug": "obi",
+        "productCategory": "OBI",
+        "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "metylan",
+        "name": "Metylan",
+        "slug": "metylan",
+        "productCategory": "Metylan",
+        "localThumb": "/assets/images/hersteller/metylan.webp"
+    },
+    {
+        "key": "molto",
+        "name": "Molto",
+        "slug": "molto",
+        "productCategory": "Molto",
+        "localThumb": "/assets/images/hersteller/molto.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +35,101 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "alpina",
+        "name": "Alpina",
+        "slug": "alpina",
+        "productCategory": "Alpina",
+        "localThumb": "/assets/images/hersteller/alpina.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "decotric",
+        "name": "decotric",
+        "slug": "decotric",
+        "productCategory": "decotric",
+        "localThumb": "/assets/images/hersteller/decotric.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "fischer",
+        "name": "Fischer",
+        "slug": "fischer",
+        "productCategory": "Fischer",
+        "localThumb": "/assets/images/hersteller/fischer.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "wagner",
+        "name": "Wagner",
+        "slug": "wagner",
+        "productCategory": "Wagner",
+        "localThumb": "/assets/images/hersteller/wagner.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "veroboard® rapid",
+        "name": "VeroBoard® Rapid",
+        "slug": "veroboard-r-rapid",
+        "productCategory": "VeroBoard® Rapid",
+        "localThumb": "/assets/images/hersteller/veroboard-r-rapid.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "baufan",
+        "name": "Baufan",
+        "slug": "baufan",
+        "productCategory": "Baufan",
+        "localThumb": "/assets/images/hersteller/baufan.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "albrecht",
+        "name": "Albrecht",
+        "slug": "albrecht",
+        "productCategory": "Albrecht",
+        "localThumb": "/assets/images/hersteller/albrecht.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "aka",
+        "name": "aka",
+        "slug": "aka",
+        "productCategory": "aka",
+        "localThumb": "/assets/images/hersteller/aka.webp"
+    },
+    {
+        "key": "clou",
+        "name": "CLOU",
+        "slug": "clou",
+        "productCategory": "CLOU",
+        "localThumb": "/assets/images/hersteller/clou.webp"
+    },
+    {
+        "key": "bondex",
+        "name": "BONDEX",
+        "slug": "bondex",
+        "productCategory": "BONDEX",
+        "localThumb": "/assets/images/hersteller/bondex.webp"
+    },
+    {
+        "key": "ponal",
+        "name": "Ponal",
+        "slug": "ponal",
+        "productCategory": "Ponal",
+        "localThumb": "/assets/images/hersteller/ponal.webp"
+    },
+    {
+        "key": "bona",
+        "name": "Bona",
+        "slug": "bona",
+        "productCategory": "Bona",
+        "localThumb": "/assets/images/hersteller/bona.webp"
+    },
+    {
+        "key": "erfurt",
+        "name": "Erfurt",
+        "slug": "erfurt",
+        "productCategory": "Erfurt",
+        "localThumb": "/assets/images/hersteller/erfurt.webp"
     }
 ]

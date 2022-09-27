@@ -1,107 +1,170 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "spachtelmassen & füllstoffe",
+        "name": "Spachtelmassen & Füllstoffe",
+        "slug": "spachtelmassen-fullstoffe",
+        "productCategory": "Spachtelmassen & Füllstoffe",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "wandspachtel & deckenspachtel",
+        "name": "Wandspachtel & Deckenspachtel",
+        "slug": "wandspachtel-deckenspachtel",
+        "productCategory": "Wandspachtel & Deckenspachtel",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "malerwerkzeuge",
+        "name": "Malerwerkzeuge",
+        "slug": "malerwerkzeuge",
+        "productCategory": "Malerwerkzeuge",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "farbroller",
+        "name": "Farbroller",
+        "slug": "farbroller",
+        "productCategory": "Farbroller",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "tapezierhelfer",
+        "name": "Tapezierhelfer",
+        "slug": "tapezierhelfer",
+        "productCategory": "Tapezierhelfer",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "tapetenkleister",
+        "name": "Tapetenkleister",
+        "slug": "tapetenkleister",
+        "productCategory": "Tapetenkleister",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "maler-sets",
+        "name": "Maler-Sets",
+        "slug": "maler-sets",
+        "productCategory": "Maler-Sets",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "schleifmittel",
+        "name": "Schleifmittel",
+        "slug": "schleifmittel",
+        "productCategory": "Schleifmittel",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "pinsel",
+        "name": "Pinsel",
+        "slug": "pinsel",
+        "productCategory": "Pinsel",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "malerbürsten & quaste",
+        "name": "Malerbürsten & Quaste",
+        "slug": "malerbursten-quaste",
+        "productCategory": "Malerbürsten & Quaste",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "farbwalzen",
+        "name": "Farbwalzen",
+        "slug": "farbwalzen",
+        "productCategory": "Farbwalzen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "eimer & abstreifgitter",
+        "name": "Eimer & Abstreifgitter",
+        "slug": "eimer-abstreifgitter",
+        "productCategory": "Eimer & Abstreifgitter",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "abdeckmaterialien & schutzkleidungen",
+        "name": "Abdeckmaterialien & Schutzkleidungen",
+        "slug": "abdeckmaterialien-schutzkleidungen",
+        "productCategory": "Abdeckmaterialien & Schutzkleidungen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "verdünner, abbeizer, anlauger & reiniger",
+        "name": "Verdünner, Abbeizer, Anlauger & Reiniger",
+        "slug": "verdunner-abbeizer-anlauger-reiniger",
+        "productCategory": "Verdünner, Abbeizer, Anlauger & Reiniger",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "holz-, metall- & lackspachtel",
+        "name": "Holz-, Metall- & Lackspachtel",
+        "slug": "holz-metall-lackspachtel",
+        "productCategory": "Holz-, Metall- & Lackspachtel",
+        "subCategories": []
+    },
+    {
+        "key": "kreativwerkzeuge",
+        "name": "Kreativwerkzeuge",
+        "slug": "kreativwerkzeuge",
+        "productCategory": "Kreativwerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "spachtel, scheren & messer",
+        "name": "Spachtel, Scheren & Messer",
+        "slug": "spachtel-scheren-messer",
+        "productCategory": "Spachtel, Scheren & Messer",
+        "subCategories": []
+    },
+    {
+        "key": "tapezierwerkzeuge",
+        "name": "Tapezierwerkzeuge",
+        "slug": "tapezierwerkzeuge",
+        "productCategory": "Tapezierwerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "grundierungen & fleckenisolierungen",
+        "name": "Grundierungen & Fleckenisolierungen",
+        "slug": "grundierungen-fleckenisolierungen",
+        "productCategory": "Grundierungen & Fleckenisolierungen",
+        "subCategories": []
+    },
+    {
+        "key": "sprühgeräte",
+        "name": "Sprühgeräte",
+        "slug": "spruhgerate",
+        "productCategory": "Sprühgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "tapeziertische",
+        "name": "Tapeziertische",
+        "slug": "tapeziertische",
+        "productCategory": "Tapeziertische",
+        "subCategories": []
+    },
+    {
+        "key": "spezialspachtel",
+        "name": "Spezialspachtel",
+        "slug": "spezialspachtel",
+        "productCategory": "Spezialspachtel",
+        "subCategories": []
+    },
+    {
+        "key": "tapetenablöser & tapetengrundierungen",
+        "name": "Tapetenablöser & Tapetengrundierungen",
+        "slug": "tapetenabloser-tapetengrundierungen",
+        "productCategory": "Tapetenablöser & Tapetengrundierungen",
+        "subCategories": []
+    },
+    {
+        "key": "verlängerungsstangen",
+        "name": "Verlängerungsstangen",
+        "slug": "verlangerungsstangen",
+        "productCategory": "Verlängerungsstangen",
         "subCategories": []
     }
 ]
