@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/albrecht", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/albrecht-kunstharz-spachtel-weisz-200-g-albrecht-2930428-1.jpg":"\u002Fassets\u002Fimages\u002Falbrecht-kunstharz-spachtel-weisz-200-g-albrecht-2930428-1.webp"}}],fetch:{},mutations:void 0});

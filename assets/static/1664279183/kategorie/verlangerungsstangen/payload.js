@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/verlangerungsstangen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-teleskopstab-aluminium-165-cm-300-cm-lux-tools-4510541-1.jpg":"\u002Fassets\u002Fimages\u002Flux-teleskopstab-aluminium-165-cm-300-cm-lux-tools-4510541-1.webp"}}],fetch:{},mutations:void 0});

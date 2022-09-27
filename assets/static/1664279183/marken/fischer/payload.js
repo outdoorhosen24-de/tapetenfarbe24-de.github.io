@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/fischer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fischer-reparatur-spachtel-70-ml-fischer-4373627-1.jpg":"\u002Fassets\u002Fimages\u002Ffischer-reparatur-spachtel-70-ml-fischer-4373627-1.webp"}}],fetch:{},mutations:void 0});
