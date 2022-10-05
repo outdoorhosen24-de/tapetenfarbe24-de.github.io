@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "tapetenfarbe24.de",
+    "hostname": "https://www.tapetenfarbe24.de/",
+    "email": "tapetenfarbe24.desurrealnetworks.io",
+    "organization": "tapetenfarbe24.de",
+    "logoText": "Tapetenfarbe24.de",
+    "title": "Farben- & Tapetenzubeh\u00f6r",
+    "subline": "Der Online Shop f\u00fcr Farben- & Tapetenzubeh\u00f6r",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4487351",
+        "5270921",
+        "7235237",
+        "1619162",
+        "1767300",
+        "5210810"
+    ],
+    "winnerProducts": [
+        "2225266",
+        "5623160",
+        "6999502"
+    ],
+    "featuredCategories": [
+        "Farbroller",
+        "Malerb\u00fcrsten & Quaste",
+        "Verd\u00fcnner, Abbeizer, Anlauger & Reiniger",
+        "Spezialspachtel",
+        "Tapezierhelfer",
+        "Spr\u00fchger\u00e4te"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Farben- & Tapetenzubeh\u00f6r",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr die Gestaltung Ihrer Wohnung oder Ihres Hauses ben\u00f6tigen. Wir f\u00fchren eine gro\u00dfe Auswahl an Farben und Tapeten in verschiedenen Stilen und Designs. Sie k\u00f6nnen bei uns auch Zubeh\u00f6r wie Tapetenkleister, Pinsel und Rollen kaufen. Wenn Sie Fragen zur Gestaltung Ihrer R\u00e4ume haben, stehen wir Ihnen gerne mit Rat und Tat zur Seite. Kommen Sie vorbei und lassen Sie sich von unserer Auswahl inspirieren!",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Farben- & Tapetenzubeh\u00f6r",
+            "metaDescription": "Farben- & Tapetenzubeh\u00f6r - Alles f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Tapeten, Farben und Zubeh\u00f6r.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Farben- & Tapetenzubeh\u00f6r",
+                    "text": "Die Wahl der richtigen Farben und Tapeten f\u00fcr Ihr Zuhause kann eine Herausforderung sein. Es gibt so viele verschiedene Optionen und M\u00f6glichkeiten, dass es schwer sein kann, sich f\u00fcr das Richtige zu entscheiden. Wenn Sie jedoch einige Tipps und Tricks befolgen, k\u00f6nnen Sie die perfekten Farben und Tapeten f\u00fcr Ihr Zuhause finden.\n\nZun\u00e4chst sollten Sie sich \u00fcberlegen, welche Farben Sie m\u00f6gen. Welche Farben passen zu Ihrer Pers\u00f6nlichkeit und Ihrem Stil? Welche Farben w\u00fcrden Sie in Ihrem Zuhause tragen? Diese Fragen k\u00f6nnen Ihnen helfen, die richtigen Farben f\u00fcr Ihr Zuhause zu finden.\n\nSobald Sie einige Farben im Sinn haben, sollten Sie sich \u00fcberlegen, welche Tapeten Sie m\u00f6gen. Tapeten k\u00f6nnen eine gro\u00dfartige M\u00f6glichkeit sein, um Farbe in Ihr Zuhause zu bringen. Es gibt Tapeten in allen m\u00f6glichen Farben, Mustern und Stilen. Suchen Sie nach Tapeten, die Ihren Farben entsprechen und Ihrem Stil entsprechen.\n\nWenn Sie die perfekten Farben und Tapeten f\u00fcr Ihr Zuhause gefunden haben, ist es Zeit, sich um das Zubeh\u00f6r zu k\u00fcmmern. Es gibt viele verschiedene Optionen f\u00fcr Farben- und Tapetenzubeh\u00f6r. Sie k\u00f6nnen Tapetenbord\u00fcren, Tapetenstiche, Tapetenkleber und vieles mehr finden. Suchen Sie nach Zubeh\u00f6r, das Ihren Farben und Tapeten entspricht und Ihrem Stil"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Farben- & Tapetenzubeh\u00f6r-Shop",
+            "metaDescription": "Der Shop f\u00fcr Farben- & Tapetenzubeh\u00f6r - alles f\u00fcr Ihr perfektes Zuhause!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Farben- & Tapetenzubeh\u00f6r - Hersteller",
+            "metaDescription": "Farben- & Tapetenzubeh\u00f6r - Finden Sie die passenden Produkte f\u00fcr Ihr Zuhause bei uns. Wir sind Ihr zuverl\u00e4ssiger Hersteller!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Farben- & Tapetenzubeh\u00f6r",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Farben- & Tapetenzubeh\u00f6r f\u00fcr Ihr Zuhause. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Farben- & Tapetenzubeh\u00f6r f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "Farben- & Tapetenzubeh\u00f6r: $KATEGORIE f\u00fcr die perfekte Wandgestaltung. Jetzt bei OBI entdecken!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Farben- & Tapetenzubeh\u00f6r. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Farben- & Tapetenzubeh\u00f6r",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Farben- & Tapetenzubeh\u00f6r Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Farben- & Tapetenzubeh\u00f6r Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
