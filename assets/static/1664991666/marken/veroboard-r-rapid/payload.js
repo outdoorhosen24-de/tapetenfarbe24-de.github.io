@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/veroboard-r-rapid", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/veroboard-r-rapid-silikat-spachtel-17-kg-veroboard-r-rapid-9464785-1.jpg":"\u002Fassets\u002Fimages\u002Fveroboard-r-rapid-silikat-spachtel-17-kg-veroboard-r-rapid-9464785-1.webp"}}],fetch:{},mutations:void 0});
