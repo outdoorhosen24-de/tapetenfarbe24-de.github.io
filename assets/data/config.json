@@ -51,12 +51,15 @@
             "title": "Farben- & Tapetenzubehör",
             "metaDescription": "Farben- & Tapetenzubehör - Alles für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Tapeten, Farben und Zubehör.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Farben- & Tapetenzubehör",
-                    "text": "Die Wahl der richtigen Farben und Tapeten für Ihr Zuhause kann eine Herausforderung sein. Es gibt so viele verschiedene Optionen und Möglichkeiten, dass es schwer sein kann, sich für das Richtige zu entscheiden. Wenn Sie jedoch einige Tipps und Tricks befolgen, können Sie die perfekten Farben und Tapeten für Ihr Zuhause finden.\n\nZunächst sollten Sie sich überlegen, welche Farben Sie mögen. Welche Farben passen zu Ihrer Persönlichkeit und Ihrem Stil? Welche Farben würden Sie in Ihrem Zuhause tragen? Diese Fragen können Ihnen helfen, die richtigen Farben für Ihr Zuhause zu finden.\n\nSobald Sie einige Farben im Sinn haben, sollten Sie sich überlegen, welche Tapeten Sie mögen. Tapeten können eine großartige Möglichkeit sein, um Farbe in Ihr Zuhause zu bringen. Es gibt Tapeten in allen möglichen Farben, Mustern und Stilen. Suchen Sie nach Tapeten, die Ihren Farben entsprechen und Ihrem Stil entsprechen.\n\nWenn Sie die perfekten Farben und Tapeten für Ihr Zuhause gefunden haben, ist es Zeit, sich um das Zubehör zu kümmern. Es gibt viele verschiedene Optionen für Farben- und Tapetenzubehör. Sie können Tapetenbordüren, Tapetenstiche, Tapetenkleber und vieles mehr finden. Suchen Sie nach Zubehör, das Ihren Farben und Tapeten entspricht und Ihrem Stil"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Farben- & Tapetenzubehör",
+                        "text": "Die Wahl der richtigen Farben und Tapeten für Ihr Zuhause kann eine Herausforderung sein. Es gibt so viele verschiedene Optionen und Möglichkeiten, dass es schwer sein kann, sich für das Richtige zu entscheiden. Wenn Sie jedoch einige Tipps und Tricks befolgen, können Sie die perfekten Farben und Tapeten für Ihr Zuhause finden.\n\nZunächst sollten Sie sich überlegen, welche Farben Sie mögen. Welche Farben passen zu Ihrer Persönlichkeit und Ihrem Stil? Welche Farben würden Sie in Ihrem Zuhause tragen? Diese Fragen können Ihnen helfen, die richtigen Farben für Ihr Zuhause zu finden.\n\nSobald Sie einige Farben im Sinn haben, sollten Sie sich überlegen, welche Tapeten Sie mögen. Tapeten können eine großartige Möglichkeit sein, um Farbe in Ihr Zuhause zu bringen. Es gibt Tapeten in allen möglichen Farben, Mustern und Stilen. Suchen Sie nach Tapeten, die Ihren Farben entsprechen und Ihrem Stil entsprechen.\n\nWenn Sie die perfekten Farben und Tapeten für Ihr Zuhause gefunden haben, ist es Zeit, sich um das Zubehör zu kümmern. Es gibt viele verschiedene Optionen für Farben- und Tapetenzubehör. Sie können Tapetenbordüren, Tapetenstiche, Tapetenkleber und vieles mehr finden. Suchen Sie nach Zubehör, das Ihren Farben und Tapeten entspricht und Ihrem Stil"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Farben- & Tapetenzubehör-Shop",
