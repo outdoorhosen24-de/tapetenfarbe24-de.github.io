@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "tapetenfarbe24.de",
     "hostname": "https://www.tapetenfarbe24.de/",
     "email": "tapetenfarbe24.de@surrealnetworks.io",
     "organization": "tapetenfarbe24.de",
     "logoText": "Tapetenfarbe24.de",
-    "title": "Farben- & Tapetenzubehör",
-    "subline": "Der Online Shop für Farben- & Tapetenzubehör",
+    "title": "Maler- und Tapezierzubehör",
+    "subline": "Der Online-Shop für Zubehör rund ums Streichen und Tapezieren",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Farben- & Tapetenzubehör",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für die Gestaltung Ihrer Wohnung oder Ihres Hauses benötigen. Wir führen eine große Auswahl an Farben und Tapeten in verschiedenen Stilen und Designs. Sie können bei uns auch Zubehör wie Tapetenkleister, Pinsel und Rollen kaufen. Wenn Sie Fragen zur Gestaltung Ihrer Räume haben, stehen wir Ihnen gerne mit Rat und Tat zur Seite. Kommen Sie vorbei und lassen Sie sich von unserer Auswahl inspirieren!",
+        "featureText": "Willkommen bei tapetenfarbe24, dem One-Stop-Shop für alle Ihre Malerarbeiten! Ob Sie ein professioneller Maler oder ein Heimwerker sind, wir haben alles, was Sie brauchen, um jedes Projekt mit Zuversicht anzugehen. Von Spachtelmasse und Spachtel bis hin zu Farbrollern und Tapetenkleber - wir haben alles für Sie. Stöbern Sie in unserer großen Auswahl an hochwertigen Malerwerkzeugen und -materialien, und machen Sie sich bereit, jeden Raum in Ihrem Zuhause mit Leichtigkeit zu verwandeln.",
         "index": {
-            "title": "Farben- & Tapetenzubehör",
-            "metaDescription": "Farben- & Tapetenzubehör - Alles für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Tapeten, Farben und Zubehör.",
+            "title": "Malereibedarf & Werkzeuge",
+            "metaDescription": "Alles, was Sie für Ihre Malerprojekte und Farben benötigen, finden Sie bei tapetenfarbe24.de. Kaufen Sie jetzt hochwertige Verbrauchsmaterialien und Werkzeuge.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Farben- & Tapetenzubehör-Shop",
-            "metaDescription": "Der Shop für Farben- & Tapetenzubehör - alles für Ihr perfektes Zuhause!",
+            "title": "Farben- & Tapetenzubehör | Shop",
+            "metaDescription": "Auf tapetenfarbe24.de finden Sie alles was für Ihre Mal- und Tapezierarbeiten benötigen. Übersichtlich in Kategorien wie: Farbroller, Tapetenkleister uvm.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Farben- & Tapetenzubehör - Hersteller",
-            "metaDescription": "Farben- & Tapetenzubehör - Finden Sie die passenden Produkte für Ihr Zuhause bei uns. Wir sind Ihr zuverlässiger Hersteller!",
+            "title": "Hersteller für Farben- und Tapetenzubehör",
+            "metaDescription": "Alle Hersteller für Farben- und Tapetenzubehör im Überblick. Marken wie OBI, LUX-TOOLS, Wagner, Fischer, decotric, Alpina, Albrecht, BONDEX, Metylan, uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Farben- & Tapetenzubehör",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Farben- & Tapetenzubehör für Ihr Zuhause. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT | tapetenfarbe24.de",
+        "defaultMetaDescription": "Kaufen Sie das Produkt $PRODUKT vom Hersteller $HERSTELLER aus der Kategorie $KATEGORIE günstig online bei tapetenfarbe24.de.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Farben- & Tapetenzubehör für $KATEGORIE",
-        "defaultMetaDescription": "Farben- & Tapetenzubehör: $KATEGORIE für die perfekte Wandgestaltung. Jetzt bei OBI entdecken!",
+        "defaultTitle": "$KATEGORIE | tapetenfarbe24.de",
+        "defaultMetaDescription": "Entdecken Sie unsere große Auswahl an $KATEGORIE auf tapetenfarbe24.de. Jedes Projekt mit Zuversicht in Angriff zu nehmen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Farben- & Tapetenzubehör. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultTitle": "$HERSTELLER | Produkte günstig kaufen auf tapetenfarbe24.de",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Hersteller für Farben- & Tapetenzubehör. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
