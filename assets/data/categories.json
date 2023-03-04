@@ -2,7 +2,7 @@
     {
         "key": "spachtelmassen & füllstoffe",
         "name": "Spachtelmassen & Füllstoffe",
-        "slug": "spachtelmassen-fullstoffe",
+        "slug": "spachtelmassen-fuellstoffe",
         "productCategory": "Spachtelmassen & Füllstoffe",
         "subCategories": []
     },
@@ -65,7 +65,7 @@
     {
         "key": "malerbürsten & quaste",
         "name": "Malerbürsten & Quaste",
-        "slug": "malerbursten-quaste",
+        "slug": "malerbuersten-quaste",
         "productCategory": "Malerbürsten & Quaste",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "verdünner, abbeizer, anlauger & reiniger",
         "name": "Verdünner, Abbeizer, Anlauger & Reiniger",
-        "slug": "verdunner-abbeizer-anlauger-reiniger",
+        "slug": "verduenner-abbeizer-anlauger-reiniger",
         "productCategory": "Verdünner, Abbeizer, Anlauger & Reiniger",
         "subCategories": []
     },
@@ -135,7 +135,7 @@
     {
         "key": "sprühgeräte",
         "name": "Sprühgeräte",
-        "slug": "spruhgerate",
+        "slug": "spruehgeraete",
         "productCategory": "Sprühgeräte",
         "subCategories": []
     },
@@ -156,14 +156,14 @@
     {
         "key": "tapetenablöser & tapetengrundierungen",
         "name": "Tapetenablöser & Tapetengrundierungen",
-        "slug": "tapetenabloser-tapetengrundierungen",
+        "slug": "tapetenabloeser-tapetengrundierungen",
         "productCategory": "Tapetenablöser & Tapetengrundierungen",
         "subCategories": []
     },
     {
         "key": "verlängerungsstangen",
         "name": "Verlängerungsstangen",
-        "slug": "verlangerungsstangen",
+        "slug": "verlaengerungsstangen",
         "productCategory": "Verlängerungsstangen",
         "subCategories": []
     }
