@@ -1,296 +1,303 @@
 {
-  "configIsReady": true,
-  "domain": "tapetenfarbe24.de",
-  "hostname": "https://www.tapetenfarbe24.de/",
-  "email": "tapetenfarbe24.de@surrealnetworks.io",
-  "organization": "tapetenfarbe24.de",
-  "logoText": "Tapetenfarbe24.de",
-  "title": "Maler- und Tapezierzubehör",
-  "subline": "Der Online-Shop für Zubehör rund ums Streichen und Tapezieren",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "4487351",
-    "5270921",
-    "7235237",
-    "1619162",
-    "1767300",
-    "5210810"
-  ],
-  "winnerProducts": [
-    "2225266",
-    "5623160",
-    "6999502"
-  ],
-  "featuredCategories": [
-    "Farbroller",
-    "Malerbürsten & Quaste",
-    "Verdünner, Abbeizer, Anlauger & Reiniger",
-    "Spezialspachtel",
-    "Tapezierhelfer",
-    "Sprühgeräte"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Farben- & Tapetenzubehör",
-    "featureText": "Willkommen bei tapetenfarbe24, dem One-Stop-Shop für alle Ihre Malerarbeiten! Ob Sie ein professioneller Maler oder ein Heimwerker sind, wir haben alles, was Sie brauchen, um jedes Projekt mit Zuversicht anzugehen. Von Spachtelmasse und Spachtel bis hin zu Farbrollern und Tapetenkleber - wir haben alles für Sie. Stöbern Sie in unserer großen Auswahl an hochwertigen Malerwerkzeugen und -materialien, und machen Sie sich bereit, jeden Raum in Ihrem Zuhause mit Leichtigkeit zu verwandeln.",
-    "index": {
-      "title": "Malereibedarf & Werkzeuge",
-      "metaDescription": "Alles, was Sie für Ihre Malerprojekte und Farben benötigen, finden Sie bei tapetenfarbe24.de. Kaufen Sie jetzt hochwertige Verbrauchsmaterialien und Werkzeuge.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Tapetenfarbe24!",
-            "text": "Herzlich willkommen auf unserer Online-Plattform für Farben- und Tapetenzubehör. Wir sind Ihr zuverlässiger Partner für alle Projekte rund um das Thema Maler- und Tapezierarbeiten. Ob Sie einen neuen Anstrich für Ihre Wände benötigen oder Ihre Decke renovieren möchten - bei uns finden Sie alles, was Sie brauchen. Unser Sortiment umfasst eine breite Palette an Produkten, von Spachtelmassen und Füllstoffen über Malerwerkzeuge bis hin zu Tapetenkleistern und Schutzkleidungen. Unsere Kategorien bieten Ihnen eine übersichtliche Navigation und erleichtern Ihnen so die Suche nach dem gewünschten Produkt. Wir legen großen Wert auf Qualität und bieten Ihnen daher ausschließlich hochwertige und zuverlässige Produkte an. Unser erfahrenes Team steht Ihnen jederzeit mit Rat und Tat zur Seite und berät Sie gerne bei Ihren Projekten. Lassen Sie sich von unserem umfangreichen Angebot inspirieren und starten Sie jetzt Ihr nächstes Mal- oder Tapezierprojekt mit Tapetenfarbe24! Wir freuen uns auf Ihren Besuch."
-          },
-          {
-            "title": "Spachtelmassen & Füllstoffe",
-            "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/spachtelmassen-fuellstoffe/\" title=\"Spachtelmassen & Füllstoffe\">Spachtelmassen & Füllstoffe</a>n für Ihre nächste Renovierung oder Malerarbeit. Wir bieten hochwertige Produkte für jeden Bedarf, egal ob Sie eine glatte Oberfläche erzielen oder Unebenheiten ausgleichen möchten. Unsere Spachtelmassen & Füllstoffe sind einfach zu verarbeiten und ermöglichen ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute!"
-          },
-          {
-            "title": "Wandspachtel & Deckenspachtel",
-            "text": "Mit unseren <a href=\"/kategorie/wandspachtel-deckenspachtel/\" title=\"Wandspachtel & Deckenspachtel\">Wandspachtel & Deckenspachtel</a> können Sie Ihre Wände und Decken perfekt glätten und vor allem reparieren. Unsere Produkte sind ideal für den Einsatz in Wohnräumen, Bädern und Küchen. Dank der einfachen Handhabung und der hohen Qualität, erzielen Sie im Handumdrehen ein perfektes Ergebnis. Überzeugen Sie sich selbst und bestellen Sie noch heute bei uns!"
-          },
-          {
-            "title": "Malerwerkzeuge",
-            "text": "Mit unserem Sortiment an <a href=\"/kategorie/malerwerkzeuge/\" title=\"Malerwerkzeuge\">Malerwerkzeuge</a>n sind Sie bestens ausgestattet für Ihre nächste Renovierung oder Malerarbeit. Ob Pinsel, Rolle oder Schere, wir bieten Ihnen hochwertige Produkte für jeden Bedarf. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Malerwerkzeugen wird Ihre nächste Arbeit zum Kinderspiel!"
-          },
-          {
-            "title": "Farbroller",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/farbroller/\" title=\"Farbroller\">Farbroller</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Farbroller sind in verschiedenen Größen und Materialien erhältlich, so dass für jeden Bedarf das passende Produkt dabei ist. Dank ihrer einfachen Handhabung und hohen Qualität, erzielen Sie im Handumdrehen ein perfektes Ergebnis. Überzeugen Sie sich selbst von unseren Farbrollern und bestellen Sie noch heute!"
-          },
-          {
-            "title": "Tapezierhelfer",
-            "text": "Mit unseren <a href=\"/kategorie/tapezierhelfer/\" title=\"Tapezierhelfer\">Tapezierhelfer</a>n wird Ihre nächste Tapezierarbeit zum Kinderspiel. Ob Schere, Rolle oder Kleisterbrett, wir bieten Ihnen hochwertige Produkte für jeden Bedarf. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapezierhelfern wird Ihre nächste Arbeit zu einem vollen Erfolg!"
-          },
-          {
-            "title": "Tapetenkleister",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/tapetenkleister/\" title=\"Tapetenkleister\">Tapetenkleister</a>n für Ihre nächste Renovierung oder Tapezierarbeit. Unsere Tapetenkleister sind einfach zu verarbeiten und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapetenkleistern wird Ihre nächste Tapezierarbeit zum Kinderspiel!"
-          },
-          {
-            "title": "Maler-Sets",
-            "text": "Entdecken Sie unsere praktischen <a href=\"/kategorie/maler-sets/\" title=\"Maler-Sets\">Maler-Sets</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Sets enthalten alles, was Sie für eine erfolgreiche Arbeit benötigen, von Pinseln und Rollen bis hin zu Kleister und Schleifmitteln. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Maler-Sets wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Schleifmittel",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/schleifmittel/\" title=\"Schleifmittel\">Schleifmittel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Schleifmittel sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Schleifmitteln wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Pinsel",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/pinsel/\" title=\"Pinsel\">Pinsel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Pinsel sind in verschiedenen Größen und Formen erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Pinseln wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Malerbürsten & Quaste",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/malerbuersten-quaste/\" title=\"Malerbürsten & Quaste\">Malerbürsten & Quaste</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Malerbürsten & Quasten wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Farbwalzen",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/farbwalzen/\" title=\"Farbwalzen\">Farbwalzen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Farbwalzen sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Farbwalzen wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Eimer & Abstreifgitter",
-            "text": "Entdecken Sie unsere praktischen <a href=\"/kategorie/eimer-abstreifgitter/\" title=\"Eimer & Abstreifgitter\">Eimer & Abstreifgitter</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Eimer & Abstreifgitter sind ideal für den Einsatz mit Farbwalzen und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Eimer & Abstreifgitter wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Abdeckmaterialien & Schutzkleidungen",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/abdeckmaterialien-schutzkleidungen/\" title=\"Abdeckmaterialien & Schutzkleidungen\">Abdeckmaterialien & Schutzkleidungen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte schützen Ihre Möbel und Böden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Abdeckmaterialien & Schutzkleidungen wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Verdünner, Abbeizer, Anlauger & Reiniger",
-            "text": "Entdecken Sie unser breites Sortiment an Verdünnern, Abbeizern, Anlaugern & Reinigern für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Verdünnern, Abbeizern, Anlaugern & Reinigern wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Holz-, Metall- & Lackspachtel",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/holz-metall-lackspachtel/\" title=\"Holz-, Metall- & Lackspachtel\">Holz-, Metall- & Lackspachtel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Spachteln sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Holz-, Metall- & Lackspachteln wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Kreativwerkzeuge",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/kreativwerkzeuge/\" title=\"Kreativwerkzeuge\">Kreativwerkzeuge</a>n für Ihre nächste Renovierung oder DIY-Projekt. Unsere Werkzeuge sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Kreativwerkzeugen wird Ihr nächstes Projekt zum vollen Erfolg!"
-          },
-          {
-            "title": "Spachtel, Scheren & Messer",
-            "text": "Entdecken Sie unser breites Sortiment an Spachteln, Scheren & Messern für Ihre nächste Renovierung oder DIY-Projekt. Unsere Werkzeuge sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Spachteln, Scheren & Messern wird Ihr nächstes Projekt zum vollen Erfolg!"
-          },
-          {
-            "title": "Tapezierwerkzeuge",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/tapezierwerkzeuge/\" title=\"Tapezierwerkzeuge\">Tapezierwerkzeuge</a>n für Ihre nächste Renovierung oder DIY-Projekt. Unsere Werkzeuge sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapezierwerkzeugen wird Ihr nächstes Projekt zum vollen Erfolg!"
-          },
-          {
-            "title": "Grundierungen & Fleckenisolierungen",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/grundierungen-fleckenisolierungen/\" title=\"Grundierungen & Fleckenisolierungen\">Grundierungen & Fleckenisolierungen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte garantieren eine perfekte Oberflächenvorbereitung und ein einwandfreies Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Grundierungen & Fleckenisolierungen wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Sprühgeräte",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/spruehgeraete/\" title=\"Sprühgeräte\">Sprühgeräte</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Geräte sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Sprühgeräten wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Tapeziertische",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/tapeziertische/\" title=\"Tapeziertische\">Tapeziertische</a>n für Ihre nächste Renovierung oder DIY-Projekt. Unsere Tische sind stabil und langlebig und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapeziertischen wird Ihr nächstes Projekt zum vollen Erfolg!"
-          },
-          {
-            "title": "Spezialspachtel",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/spezialspachtel/\" title=\"Spezialspachtel\">Spezialspachtel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Spachtel sind hochwertig und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Spezialspachteln wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Tapetenablöser & Tapetengrundierungen",
-            "text": "Entdecken Sie unser breites Sortiment an Tapetenablösern & Tapetengrundierungen für Ihre nächste Renovierung. Unsere Produkte sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapetenablösern & Tapetengrundierungen wird Ihre nächste Arbeit zum vollen Erfolg!"
-          },
-          {
-            "title": "Verlängerungsstangen",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/verlaengerungsstangen/\" title=\"Verlängerungsstangen\">Verlängerungsstangen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Stangen sind hochwertig und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Verlängerungsstangen wird Ihre nächste Arbeit zum vollen Erfolg!"
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "tapetenfarbe24.de",
+    "hostname": "https://www.tapetenfarbe24.de/",
+    "email": "tapetenfarbe24.de@surrealnetworks.io",
+    "organization": "tapetenfarbe24.de",
+    "logoText": "Tapetenfarbe24.de",
+    "title": "Maler- und Tapezierzubehör",
+    "subline": "Der Online-Shop für Zubehör rund ums Streichen und Tapezieren",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "4487351",
+        "5270921",
+        "7235237",
+        "1619162",
+        "1767300",
+        "5210810"
+    ],
+    "winnerProducts": [
+        "2225266",
+        "5623160",
+        "6999502"
+    ],
+    "featuredCategories": [
+        "Farbroller",
+        "Malerbürsten & Quaste",
+        "Verdünner, Abbeizer, Anlauger & Reiniger",
+        "Spezialspachtel",
+        "Tapezierhelfer",
+        "Sprühgeräte"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Farben- & Tapetenzubehör",
+        "featureText": "Willkommen bei tapetenfarbe24, dem One-Stop-Shop für alle Ihre Malerarbeiten! Ob Sie ein professioneller Maler oder ein Heimwerker sind, wir haben alles, was Sie brauchen, um jedes Projekt mit Zuversicht anzugehen. Von Spachtelmasse und Spachtel bis hin zu Farbrollern und Tapetenkleber - wir haben alles für Sie. Stöbern Sie in unserer großen Auswahl an hochwertigen Malerwerkzeugen und -materialien, und machen Sie sich bereit, jeden Raum in Ihrem Zuhause mit Leichtigkeit zu verwandeln.",
+        "index": {
+            "title": "Malereibedarf & Werkzeuge",
+            "metaDescription": "Alles, was Sie für Ihre Malerprojekte und Farben benötigen, finden Sie bei tapetenfarbe24.de. Kaufen Sie jetzt hochwertige Verbrauchsmaterialien und Werkzeuge.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Tapetenfarbe24!",
+                        "text": "Herzlich willkommen auf unserer Online-Plattform für Farben- und Tapetenzubehör. Wir sind Ihr zuverlässiger Partner für alle Projekte rund um das Thema Maler- und Tapezierarbeiten. Ob Sie einen neuen Anstrich für Ihre Wände benötigen oder Ihre Decke renovieren möchten - bei uns finden Sie alles, was Sie brauchen. Unser Sortiment umfasst eine breite Palette an Produkten, von Spachtelmassen und Füllstoffen über Malerwerkzeuge bis hin zu Tapetenkleistern und Schutzkleidungen. Unsere Kategorien bieten Ihnen eine übersichtliche Navigation und erleichtern Ihnen so die Suche nach dem gewünschten Produkt. Wir legen großen Wert auf Qualität und bieten Ihnen daher ausschließlich hochwertige und zuverlässige Produkte an. Unser erfahrenes Team steht Ihnen jederzeit mit Rat und Tat zur Seite und berät Sie gerne bei Ihren Projekten. Lassen Sie sich von unserem umfangreichen Angebot inspirieren und starten Sie jetzt Ihr nächstes Mal- oder Tapezierprojekt mit Tapetenfarbe24! Wir freuen uns auf Ihren Besuch."
+                    },
+                    {
+                        "title": "Spachtelmassen & Füllstoffe",
+                        "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/spachtelmassen-fuellstoffe/\" title=\"Spachtelmassen & Füllstoffe\">Spachtelmassen & Füllstoffe</a>n für Ihre nächste Renovierung oder Malerarbeit. Wir bieten hochwertige Produkte für jeden Bedarf, egal ob Sie eine glatte Oberfläche erzielen oder Unebenheiten ausgleichen möchten. Unsere Spachtelmassen & Füllstoffe sind einfach zu verarbeiten und ermöglichen ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute!"
+                    },
+                    {
+                        "title": "Wandspachtel & Deckenspachtel",
+                        "text": "Mit unseren <a href=\"/kategorie/wandspachtel-deckenspachtel/\" title=\"Wandspachtel & Deckenspachtel\">Wandspachtel & Deckenspachtel</a> können Sie Ihre Wände und Decken perfekt glätten und vor allem reparieren. Unsere Produkte sind ideal für den Einsatz in Wohnräumen, Bädern und Küchen. Dank der einfachen Handhabung und der hohen Qualität, erzielen Sie im Handumdrehen ein perfektes Ergebnis. Überzeugen Sie sich selbst und bestellen Sie noch heute bei uns!"
+                    },
+                    {
+                        "title": "Malerwerkzeuge",
+                        "text": "Mit unserem Sortiment an <a href=\"/kategorie/malerwerkzeuge/\" title=\"Malerwerkzeuge\">Malerwerkzeuge</a>n sind Sie bestens ausgestattet für Ihre nächste Renovierung oder Malerarbeit. Ob Pinsel, Rolle oder Schere, wir bieten Ihnen hochwertige Produkte für jeden Bedarf. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Malerwerkzeugen wird Ihre nächste Arbeit zum Kinderspiel!"
+                    },
+                    {
+                        "title": "Farbroller",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/farbroller/\" title=\"Farbroller\">Farbroller</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Farbroller sind in verschiedenen Größen und Materialien erhältlich, so dass für jeden Bedarf das passende Produkt dabei ist. Dank ihrer einfachen Handhabung und hohen Qualität, erzielen Sie im Handumdrehen ein perfektes Ergebnis. Überzeugen Sie sich selbst von unseren Farbrollern und bestellen Sie noch heute!"
+                    },
+                    {
+                        "title": "Tapezierhelfer",
+                        "text": "Mit unseren <a href=\"/kategorie/tapezierhelfer/\" title=\"Tapezierhelfer\">Tapezierhelfer</a>n wird Ihre nächste Tapezierarbeit zum Kinderspiel. Ob Schere, Rolle oder Kleisterbrett, wir bieten Ihnen hochwertige Produkte für jeden Bedarf. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapezierhelfern wird Ihre nächste Arbeit zu einem vollen Erfolg!"
+                    },
+                    {
+                        "title": "Tapetenkleister",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/tapetenkleister/\" title=\"Tapetenkleister\">Tapetenkleister</a>n für Ihre nächste Renovierung oder Tapezierarbeit. Unsere Tapetenkleister sind einfach zu verarbeiten und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapetenkleistern wird Ihre nächste Tapezierarbeit zum Kinderspiel!"
+                    },
+                    {
+                        "title": "Maler-Sets",
+                        "text": "Entdecken Sie unsere praktischen <a href=\"/kategorie/maler-sets/\" title=\"Maler-Sets\">Maler-Sets</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Sets enthalten alles, was Sie für eine erfolgreiche Arbeit benötigen, von Pinseln und Rollen bis hin zu Kleister und Schleifmitteln. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Maler-Sets wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Schleifmittel",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/schleifmittel/\" title=\"Schleifmittel\">Schleifmittel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Schleifmittel sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Schleifmitteln wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Pinsel",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/pinsel/\" title=\"Pinsel\">Pinsel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Pinsel sind in verschiedenen Größen und Formen erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Pinseln wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Malerbürsten & Quaste",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/malerbuersten-quaste/\" title=\"Malerbürsten & Quaste\">Malerbürsten & Quaste</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Malerbürsten & Quasten wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Farbwalzen",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/farbwalzen/\" title=\"Farbwalzen\">Farbwalzen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Farbwalzen sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Farbwalzen wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Eimer & Abstreifgitter",
+                        "text": "Entdecken Sie unsere praktischen <a href=\"/kategorie/eimer-abstreifgitter/\" title=\"Eimer & Abstreifgitter\">Eimer & Abstreifgitter</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Eimer & Abstreifgitter sind ideal für den Einsatz mit Farbwalzen und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Eimer & Abstreifgitter wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Abdeckmaterialien & Schutzkleidungen",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/abdeckmaterialien-schutzkleidungen/\" title=\"Abdeckmaterialien & Schutzkleidungen\">Abdeckmaterialien & Schutzkleidungen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte schützen Ihre Möbel und Böden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Abdeckmaterialien & Schutzkleidungen wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Verdünner, Abbeizer, Anlauger & Reiniger",
+                        "text": "Entdecken Sie unser breites Sortiment an Verdünnern, Abbeizern, Anlaugern & Reinigern für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Verdünnern, Abbeizern, Anlaugern & Reinigern wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Holz-, Metall- & Lackspachtel",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/holz-metall-lackspachtel/\" title=\"Holz-, Metall- & Lackspachtel\">Holz-, Metall- & Lackspachtel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Spachteln sind in verschiedenen Größen und Materialien erhältlich und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Holz-, Metall- & Lackspachteln wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Kreativwerkzeuge",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/kreativwerkzeuge/\" title=\"Kreativwerkzeuge\">Kreativwerkzeuge</a>n für Ihre nächste Renovierung oder DIY-Projekt. Unsere Werkzeuge sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Kreativwerkzeugen wird Ihr nächstes Projekt zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Spachtel, Scheren & Messer",
+                        "text": "Entdecken Sie unser breites Sortiment an Spachteln, Scheren & Messern für Ihre nächste Renovierung oder DIY-Projekt. Unsere Werkzeuge sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Spachteln, Scheren & Messern wird Ihr nächstes Projekt zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Tapezierwerkzeuge",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/tapezierwerkzeuge/\" title=\"Tapezierwerkzeuge\">Tapezierwerkzeuge</a>n für Ihre nächste Renovierung oder DIY-Projekt. Unsere Werkzeuge sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapezierwerkzeugen wird Ihr nächstes Projekt zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Grundierungen & Fleckenisolierungen",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/grundierungen-fleckenisolierungen/\" title=\"Grundierungen & Fleckenisolierungen\">Grundierungen & Fleckenisolierungen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Produkte garantieren eine perfekte Oberflächenvorbereitung und ein einwandfreies Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Grundierungen & Fleckenisolierungen wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Sprühgeräte",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/spruehgeraete/\" title=\"Sprühgeräte\">Sprühgeräte</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Geräte sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Sprühgeräten wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Tapeziertische",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/tapeziertische/\" title=\"Tapeziertische\">Tapeziertische</a>n für Ihre nächste Renovierung oder DIY-Projekt. Unsere Tische sind stabil und langlebig und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapeziertischen wird Ihr nächstes Projekt zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Spezialspachtel",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/spezialspachtel/\" title=\"Spezialspachtel\">Spezialspachtel</a>n für Ihre nächste Renovierung oder Malerarbeit. Unsere Spachtel sind hochwertig und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Spezialspachteln wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Tapetenablöser & Tapetengrundierungen",
+                        "text": "Entdecken Sie unser breites Sortiment an Tapetenablösern & Tapetengrundierungen für Ihre nächste Renovierung. Unsere Produkte sind einfach zu verwenden und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Tapetenablösern & Tapetengrundierungen wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    },
+                    {
+                        "title": "Verlängerungsstangen",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/verlaengerungsstangen/\" title=\"Verlängerungsstangen\">Verlängerungsstangen</a> für Ihre nächste Renovierung oder Malerarbeit. Unsere Stangen sind hochwertig und garantieren ein perfektes Ergebnis. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute. Mit unseren Verlängerungsstangen wird Ihre nächste Arbeit zum vollen Erfolg!"
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Farben- & Tapetenzubehör | Shop",
+            "metaDescription": "Auf tapetenfarbe24.de finden Sie alles was für Ihre Mal- und Tapezierarbeiten benötigen. Übersichtlich in Kategorien wie: Farbroller, Tapetenkleister uvm.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Hersteller für Farben- und Tapetenzubehör",
+            "metaDescription": "Alle Hersteller für Farben- und Tapetenzubehör im Überblick. Marken wie OBI, LUX-TOOLS, Wagner, Fischer, decotric, Alpina, Albrecht, BONDEX, Metylan, uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Farben- & Tapetenzubehör | Shop",
-      "metaDescription": "Auf tapetenfarbe24.de finden Sie alles was für Ihre Mal- und Tapezierarbeiten benötigen. Übersichtlich in Kategorien wie: Farbroller, Tapetenkleister uvm.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Hersteller für Farben- und Tapetenzubehör",
-      "metaDescription": "Alle Hersteller für Farben- und Tapetenzubehör im Überblick. Marken wie OBI, LUX-TOOLS, Wagner, Fischer, decotric, Alpina, Albrecht, BONDEX, Metylan, uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | tapetenfarbe24.de",
-    "defaultMetaDescription": "Kaufen Sie das Produkt $PRODUKT vom Hersteller $HERSTELLER aus der Kategorie $KATEGORIE günstig online bei tapetenfarbe24.de.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "2225266",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | tapetenfarbe24.de",
+        "defaultMetaDescription": "Kaufen Sie das Produkt $PRODUKT vom Hersteller $HERSTELLER aus der Kategorie $KATEGORIE günstig online bei tapetenfarbe24.de.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "LUX Farbwanne Classic 15 cm x 27 cm - LUX-TOOLS",
-              "text": "<p class=\"justify\">Die LUX Farbwanne Classic 15 cm x 27 cm von LUX-TOOLS ist ein Must-Have für alle Heimwerker und professionellen Maler. Diese praktische Farbwanne gehört zur Kategorie Eimer & Abstreifgitter und erleichtert Ihre Streicharbeiten erheblich. Durch die integrierte Abstreifvorrichtung kann die gefüllte Farbrolle einfach und effektiv abgestreift werden, um ein gleichmäßiges Streichergebnis ohne lästige Farbkleckse zu erzielen.</p><p class=\"justify\">Gefertigt ist die LUX Farbwanne Classic aus stabilem Kunststoff, was sie bruchsicher und langlebig macht. Ihre Größe von 15 cm x 27 cm ist ideal für den Einsatz sowohl im privaten Bereich als auch im professionellen Umfeld. Die Farbwanne ist zudem lösemittelfest, sodass sie für eine Vielzahl von Malerarbeiten verwendet werden kann.</p><p class=\"justify\">Ein praktisches Feature der LUX Farbwanne Classic ist der integrierte Ausguss. Damit können Sie überschüssige Farbe problemlos wieder in den Farbeimer zurückgießen - das spart nicht nur Farbe, sondern auch Zeit und Mühe beim Reinigen. Die Kombination aus Qualität und Funktionalität der LUX Farbwanne Classic 15 cm x 27 cm macht sie zu einer unverzichtbaren Ergänzung für Ihr Malerzubehör.</p><p class=\"justify\">LUX-TOOLS hat mit diesem Produkt ein effizientes und nützliches Werkzeug geschaffen, das Ihren Streicharbeiten den gewünschten Feinschliff verleiht. Mit einer hohen Anzahl an Kundenbewertungen und 4-Sterne-Bewertung können Sie sich sicher sein, dass die LUX Farbwanne Classic 15 cm x 27 cm Ihre Erwartungen erfüllen oder sogar übertreffen wird. Machen Sie Ihre Streicharbeiten einfacher und präziser mit der LUX Farbwanne Classic von LUX-TOOLS!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5623160",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX-TOOLS Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm",
-              "text": "<p class=\"justify\">Der LUX-TOOLS Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm ist das perfekte Malerwerkzeug für alle, die Wert auf ein qualitativ hochwertiges Produkt legen. Optimal zum Streichen glatter und leicht strukturierter Oberflächen geeignet, überzeugt dieser Farbroller durch seine hohe Farbaufnahme sowie -Abgabe und sorgt für schöne und ebenmäßige Lackierergebnisse.</p><p class=\"justify\">Dieser Farbroller von LUX-TOOLS ist mit einem 13 mm langen Flor ausgestattet und bietet damit eine besonders gute Deckkraft. Der hochwertige 2-Komponenten-Softgriff mit Aufhängeloch erleichtert die Handhabung und sorgt für angenehmes Arbeiten ohne Ermüdungserscheinungen. Mit einer Bügelgesamtlänge von 27 cm bietet der Goldfaden-Roller eine gute Reichweite, sodass auch schwer zugängliche Bereiche problemlos bearbeitet werden können.</p><p class=\"justify\">Der Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm ist nicht nur in der Farben- & Tapetenzubehör Kategorie ein hervorragendes Malerwerkzeug, sondern auch in den weiteren Kategorien wie Wohnen und Startseite beliebt. Der LUX-TOOLS Farbroller zeichnet sich durch seine Langlebigkeit und Robustheit aus, sodass er Ihnen bei vielen Projekten gute Dienste leisten wird.</p><p class=\"justify\">Ein weiterer Vorteil dieses Farbrollers ist seine einfache Reinigung. Nach getaner Arbeit kann der Roller problemlos von überschüssiger Farbe befreit und für den nächsten Einsatz vorbereitet werden. Mit einem angemessenen Preis und hervorragenden Bewertungen von zufriedenen Kunden ist dieser LUX-TOOLS Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm eine lohnenswerte Anschaffung für alle, die Wert auf ein professionelles Lackierergebnis legen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6999502",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX-TOOLS Abdeckvlies 25 m x 1 m: Schutz vor Farbe und Schmutz",
-              "text": "<p class=\"justify\">Das LUX-TOOLS Abdeckvlies 25 m x 1 m ist ein hochwertiges Abdeckmaterial, das ideal zum Schutz von Böden und Möbeln vor Farbe und Schmutz beim Streichen, Tapezieren oder Renovieren geeignet ist. Die Marke LUX-TOOLS steht für Qualität und Zuverlässigkeit, was sich auch bei diesem Abdeckvlies deutlich zeigt.</p><p class=\"justify\">Mit einer Länge von 25 m und einer Breite von 1 m eignet sich dieses Abdeckvlies hervorragend für den Einsatz in den verschiedensten Räumen. Es besteht zu 100 % aus recycelten Baumwoll- und Synthetikfasern und zeichnet sich durch eine besondere Reißfestigkeit aus. Die aufkaschierte rutschhemmende Folie auf der Unterseite des Vlieses sorgt für einen sicheren Stand und verhindert, dass die unterliegenden Oberflächen durch eindringende Feuchtigkeit beschädigt werden.</p><p class=\"justify\">Das LUX-TOOLS Abdeckvlies ist einfach auszurollen und kann auch problemlos zugeschnitten werden, um den jeweiligen Raumverhältnissen optimal gerecht zu werden. Es ist ein unverzichtbares Hilfsmittel bei Renovierungsarbeiten, da es den Schutz von Böden und Möbeln erleichtert, ohne großen Aufwand einen sauberen Arbeitsbereich zu schaffen und die anschließende Reinigung zu reduzieren.</p><p class=\"justify\">Dieses Abdeckvlies von LUX-TOOLS gehört zur Kategorie \"Abdeckmaterialien & Schutzkleidungen\" und ist eine wertvolle Ergänzung für jeden Heimwerkerbedarf. Mit einer GTIN13 von 4007875775916 lässt sich das Abdeckvlies auch schnell und einfach identifizieren. Die zahlreichen positiven Kundenbewertungen und eine durchschnittliche Sternebewertung von 4 unterstreichen dabei die hohe Qualität des Produkts.</p><p class=\"justify\">Zusammenfassend bietet das LUX-TOOLS Abdeckvlies 25 m x 1 m optimalen Schutz vor Farbe und Schmutz bei sämtlichen Renovierungs- und Anstricharbeiten. Seine robuste Qualität und die rutschhemmende Folie sorgen für ein sicheres Arbeiten und eine Erleichterung bei der Reinigung nach getaner Arbeit.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | tapetenfarbe24.de",
-    "defaultMetaDescription": "Entdecken Sie unsere große Auswahl an $KATEGORIE auf tapetenfarbe24.de. Jedes Projekt mit Zuversicht in Angriff zu nehmen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "2225266",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX Farbwanne Classic 15 cm x 27 cm - LUX-TOOLS",
+                            "text": "<p class=\"justify\">Die LUX Farbwanne Classic 15 cm x 27 cm von LUX-TOOLS ist ein Must-Have für alle Heimwerker und professionellen Maler. Diese praktische Farbwanne gehört zur Kategorie Eimer & Abstreifgitter und erleichtert Ihre Streicharbeiten erheblich. Durch die integrierte Abstreifvorrichtung kann die gefüllte Farbrolle einfach und effektiv abgestreift werden, um ein gleichmäßiges Streichergebnis ohne lästige Farbkleckse zu erzielen.</p><p class=\"justify\">Gefertigt ist die LUX Farbwanne Classic aus stabilem Kunststoff, was sie bruchsicher und langlebig macht. Ihre Größe von 15 cm x 27 cm ist ideal für den Einsatz sowohl im privaten Bereich als auch im professionellen Umfeld. Die Farbwanne ist zudem lösemittelfest, sodass sie für eine Vielzahl von Malerarbeiten verwendet werden kann.</p><p class=\"justify\">Ein praktisches Feature der LUX Farbwanne Classic ist der integrierte Ausguss. Damit können Sie überschüssige Farbe problemlos wieder in den Farbeimer zurückgießen - das spart nicht nur Farbe, sondern auch Zeit und Mühe beim Reinigen. Die Kombination aus Qualität und Funktionalität der LUX Farbwanne Classic 15 cm x 27 cm macht sie zu einer unverzichtbaren Ergänzung für Ihr Malerzubehör.</p><p class=\"justify\">LUX-TOOLS hat mit diesem Produkt ein effizientes und nützliches Werkzeug geschaffen, das Ihren Streicharbeiten den gewünschten Feinschliff verleiht. Mit einer hohen Anzahl an Kundenbewertungen und 4-Sterne-Bewertung können Sie sich sicher sein, dass die LUX Farbwanne Classic 15 cm x 27 cm Ihre Erwartungen erfüllen oder sogar übertreffen wird. Machen Sie Ihre Streicharbeiten einfacher und präziser mit der LUX Farbwanne Classic von LUX-TOOLS!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5623160",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX-TOOLS Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm",
+                            "text": "<p class=\"justify\">Der LUX-TOOLS Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm ist das perfekte Malerwerkzeug für alle, die Wert auf ein qualitativ hochwertiges Produkt legen. Optimal zum Streichen glatter und leicht strukturierter Oberflächen geeignet, überzeugt dieser Farbroller durch seine hohe Farbaufnahme sowie -Abgabe und sorgt für schöne und ebenmäßige Lackierergebnisse.</p><p class=\"justify\">Dieser Farbroller von LUX-TOOLS ist mit einem 13 mm langen Flor ausgestattet und bietet damit eine besonders gute Deckkraft. Der hochwertige 2-Komponenten-Softgriff mit Aufhängeloch erleichtert die Handhabung und sorgt für angenehmes Arbeiten ohne Ermüdungserscheinungen. Mit einer Bügelgesamtlänge von 27 cm bietet der Goldfaden-Roller eine gute Reichweite, sodass auch schwer zugängliche Bereiche problemlos bearbeitet werden können.</p><p class=\"justify\">Der Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm ist nicht nur in der Farben- & Tapetenzubehör Kategorie ein hervorragendes Malerwerkzeug, sondern auch in den weiteren Kategorien wie Wohnen und Startseite beliebt. Der LUX-TOOLS Farbroller zeichnet sich durch seine Langlebigkeit und Robustheit aus, sodass er Ihnen bei vielen Projekten gute Dienste leisten wird.</p><p class=\"justify\">Ein weiterer Vorteil dieses Farbrollers ist seine einfache Reinigung. Nach getaner Arbeit kann der Roller problemlos von überschüssiger Farbe befreit und für den nächsten Einsatz vorbereitet werden. Mit einem angemessenen Preis und hervorragenden Bewertungen von zufriedenen Kunden ist dieser LUX-TOOLS Goldfaden-Roller 2K-Softgriff Schwarz-Blau 12 cm eine lohnenswerte Anschaffung für alle, die Wert auf ein professionelles Lackierergebnis legen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6999502",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX-TOOLS Abdeckvlies 25 m x 1 m: Schutz vor Farbe und Schmutz",
+                            "text": "<p class=\"justify\">Das LUX-TOOLS Abdeckvlies 25 m x 1 m ist ein hochwertiges Abdeckmaterial, das ideal zum Schutz von Böden und Möbeln vor Farbe und Schmutz beim Streichen, Tapezieren oder Renovieren geeignet ist. Die Marke LUX-TOOLS steht für Qualität und Zuverlässigkeit, was sich auch bei diesem Abdeckvlies deutlich zeigt.</p><p class=\"justify\">Mit einer Länge von 25 m und einer Breite von 1 m eignet sich dieses Abdeckvlies hervorragend für den Einsatz in den verschiedensten Räumen. Es besteht zu 100 % aus recycelten Baumwoll- und Synthetikfasern und zeichnet sich durch eine besondere Reißfestigkeit aus. Die aufkaschierte rutschhemmende Folie auf der Unterseite des Vlieses sorgt für einen sicheren Stand und verhindert, dass die unterliegenden Oberflächen durch eindringende Feuchtigkeit beschädigt werden.</p><p class=\"justify\">Das LUX-TOOLS Abdeckvlies ist einfach auszurollen und kann auch problemlos zugeschnitten werden, um den jeweiligen Raumverhältnissen optimal gerecht zu werden. Es ist ein unverzichtbares Hilfsmittel bei Renovierungsarbeiten, da es den Schutz von Böden und Möbeln erleichtert, ohne großen Aufwand einen sauberen Arbeitsbereich zu schaffen und die anschließende Reinigung zu reduzieren.</p><p class=\"justify\">Dieses Abdeckvlies von LUX-TOOLS gehört zur Kategorie \"Abdeckmaterialien & Schutzkleidungen\" und ist eine wertvolle Ergänzung für jeden Heimwerkerbedarf. Mit einer GTIN13 von 4007875775916 lässt sich das Abdeckvlies auch schnell und einfach identifizieren. Die zahlreichen positiven Kundenbewertungen und eine durchschnittliche Sternebewertung von 4 unterstreichen dabei die hohe Qualität des Produkts.</p><p class=\"justify\">Zusammenfassend bietet das LUX-TOOLS Abdeckvlies 25 m x 1 m optimalen Schutz vor Farbe und Schmutz bei sämtlichen Renovierungs- und Anstricharbeiten. Seine robuste Qualität und die rutschhemmende Folie sorgen für ein sicheres Arbeiten und eine Erleichterung bei der Reinigung nach getaner Arbeit.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | tapetenfarbe24.de",
+        "defaultMetaDescription": "Entdecken Sie unsere große Auswahl an $KATEGORIE auf tapetenfarbe24.de. Jedes Projekt mit Zuversicht in Angriff zu nehmen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Produkte günstig kaufen auf tapetenfarbe24.de",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Hersteller für Farben- & Tapetenzubehör. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Farben- & Tapetenzubehör",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Farben- & Tapetenzubehör Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Farben- & Tapetenzubehör Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Produkte günstig kaufen auf tapetenfarbe24.de",
-    "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Hersteller für Farben- & Tapetenzubehör. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Farben- & Tapetenzubehör",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Farben- & Tapetenzubehör Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Farben- & Tapetenzubehör Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
